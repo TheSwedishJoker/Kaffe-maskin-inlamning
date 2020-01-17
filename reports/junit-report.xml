@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name=";" tests="7" failures="0" skipped="5">
+        <properties>
+            <property name="URI" value="/Users/hugonilssonmeier/Desktop/cucumber-inlamning/features/coffee-machine.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";" time="0.001774618">
+        </testcase>
+        <testcase name="And that water is available" classname=";" time="0.00025869">
+        </testcase>
+        <testcase name="And that the machine has ground coffee" classname=";">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user inserts a 10 kr coin" classname=";">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the start button" classname=";">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user receives a cup of coffee." classname=";">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+</testsuites>
